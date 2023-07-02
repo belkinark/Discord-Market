@@ -1,0 +1,45 @@
+{
+    "menu_channel": {
+        "title": "Menu",
+        "desc": "Here you can create your own product or view existing ones.",
+        "btns": ["Open Menu"]
+    },
+    "open": {
+        "title": "Hello, ",
+        "desc": "Please select an action. Your balance - ",
+        "btns": ["Show my products", "Create new product"]
+    },
+    "create": {
+        "modal": "Create your product",
+        "labels": ["Enter a unique name for your product", "Enter what your product contains"]
+    },
+    "created": {
+        "title": "Good job!",
+        "desc": "Your product has been created. You can watch it or sell it by clicking on the 'Show my products' button."
+    },
+    "show": {
+        "btns": ["◀", "Show content", "Sell", "▶", "Back to menu"],
+        "text": "There are no products on your account."
+    },
+    "sell": {
+        "modal": "Sell your product",
+        "labels": ["Enter the price of your product"]
+    },
+    "price": {
+        "title": "Success!",
+        "desc": "The product is for sale in the forum 'catalog'. As soon as the user buys this product, you will make a profit. If you have placed an item by mistake, then you can return it.",
+        "btns": ["Back to menu"]
+    },
+    "buy": {
+        "title": "The product was successfully purchased.",
+        "text": "You don't have enough money to buy the product."
+    },
+    "take_off": {
+        "text": "You don't own the item to return it."
+    },
+    "error1": {
+        "text": "Please enter the price as a number."
+    },
+
+    "exit": "exit"
+}
